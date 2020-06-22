@@ -2,21 +2,22 @@
 layout: page
 title: 关于
 slug: about
-date: 2017/06/28 17:26:00
+date: 2020/06/22 23:17:00
 status: publish
-author: AlanDecode
+author: supershao
 categories: 
-  - Maverick
+  - supershao
   - Dev
 tags: 
   - theme
 ---
-
+# My First Blog
 这里是我的个人博客，通过 GitHub 管理与构建。
+This is my blog created via GitHub
 
 
 ## Contact
 
-Email: hi#imalan.cn (replace # with @)
+Email: aaa
 
-Telegram：[AlanDecode](https://t.me/alandecode)
+Telegram：[supershao](https://t.me/supershao)
